@@ -70,6 +70,11 @@ Konfigurasi Koneksi:
 Buka file config/database.php.
 
 Sesuaikan hostname, username, password, dan database sesuai dengan environment lokal Anda.
+username admin : admin_perpus
+password admin : admin123
+untuk username mahasiswa yang sudah ada di database 
+username mahasiswa : 245720111022
+password mahasiswa : willy123
 
 Jalankan:
 
