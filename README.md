@@ -77,7 +77,7 @@ Pindahkan folder proyek ke dalam direktori htdocs di XAMPP Anda.
 
 Jalankan Apache dan MySQL melalui XAMPP Control Panel.
 
-Akses via browser di http://localhost/metamedia-library.
+Akses via browser di https://github.com/FarisyVz/pweb_perpustakaan_kelompok3.
 
 🤝 Kontribusi
 Proyek ini dikembangkan untuk kebutuhan akademik/perpustakaan. Saran dan perbaikan kode sangat diterima. Silakan fork repositori ini dan buat pull request untuk kontribusi Anda.
